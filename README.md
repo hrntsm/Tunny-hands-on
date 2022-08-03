@@ -51,11 +51,23 @@ https://github.com/hrntsm/Tunny#dolphin-usage
 
 ### 回帰の話
 
-線形回帰
+回帰（Regression）とは？  
+
+> デジタル大辞泉「回帰」の解説
+>
+> かい‐き〔クワイ‐〕【回帰】
+>
+>［名］(スル)ひとまわりして、もとの所に帰ること。「伝統への回帰」
+
+わかりやすいものは最小二乗近似
+
+https://ja.wikipedia.org/wiki/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%97%E6%B3%95
+
+線形単回帰
 
 ![image](https://user-images.githubusercontent.com/23289252/182602369-01358e28-1b8d-421b-a979-061d46db1915.png)![]()
 
-ベイズ線形回帰
+ベイズ線形単回帰
 
 ![image](https://user-images.githubusercontent.com/23289252/182602474-36459c35-9433-4b4f-842d-4e3957c64f1c.png)
 ![image](https://user-images.githubusercontent.com/23289252/182602484-fd9b548f-3343-47d2-b2b6-c8045657e67b.png)
