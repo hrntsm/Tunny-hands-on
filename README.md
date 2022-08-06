@@ -81,13 +81,13 @@ https://github.com/hrntsm/Tunny#dolphin-usage
     - Grid：いくらでも
     - Random：いくらでも
   - 結果の計算コスト
-    - TPE：$O(dn \log{n})$
-    - GP：$O(n^3)$
-    - NSGAII：$O(mnp)$
-    - CMA-ES：$O(d^3)$
-    - Grid：$O(d)$
-    - Random：$O(dn)$
-    - $d$ は変数の数、$n$ はこれまでの trial 回数、$m$ は目的関数の数、$p$ は世代に含まれる個体数
+    - TPE： $O(dn \log{n}) $
+    - GP： $O(n^3)$
+    - NSGAII： $O(mnp)$
+    - CMA-ES： $O(d^3)$
+    - Grid： $O(d)$
+    - Random： $O(dn)$
+    -  $d$ は変数の数、 $n$ はこれまでの trial 回数、 $m$ は目的関数の数、 $p$ は世代に含まれる個体数
 
 詳細（ただし Tunny が全てをサポートしているわけではない）
 
